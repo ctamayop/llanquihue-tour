@@ -1,0 +1,5 @@
+Saltos del Petrohue;Naturaleza;20000
+Puerto Varas;Gastronomico;28000
+Isla Chiloe;Patrimonial;45000
+Rafting Rio Petrohue;Aventura;42000
+Volcan Osorno;Aventura;34000
